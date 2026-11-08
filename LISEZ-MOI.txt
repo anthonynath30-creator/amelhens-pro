@@ -2,4 +2,4 @@ AMELHENS PRO - 5 fichiers a envoyer A LA RACINE du depot GitHub (pas de dossier)
 index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png
 Puis Settings > Pages > Deploy from a branch > main / (root) > Save.
 Adresse : https://anthonynath30-creator.github.io/NOM-DU-DEPOT/
-Pour mettre a jour plus tard : changer amelhens-pro-v5 en v2 dans sw.js.
+Pour mettre a jour plus tard : changer amelhens-pro-v6 en v2 dans sw.js.
